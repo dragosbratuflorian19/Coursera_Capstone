@@ -1,0 +1,43 @@
+County/Seat/Coordinates
+Alba/Alba Iulia/46.060194, 23.595932
+Arad/Arad/46.177254, 21.339171
+Argeș/Pitești/44.860931, 24.876520
+Bacău/Bacău/46.559676, 26.920133
+Bihor/Oradea/47.033800, 21.909859
+Bistrița-Năsăud/Bistrița/47.133169, 24.500545
+Botoșani/Botoșani/47.752566, 26.660131
+Brașov/Brașov/45.652134, 25.606408
+Brăila/Brăila/45.262698, 27.961576
+București/București/44.435388, 26.102900
+Buzău/Buzău/45.138117, 26.818863
+Caraș-Severin/Reșița/45.304263, 21.892017
+Călărași/Călărași/44.206825, 27.317084
+Cluj/Cluj-Napoca/46.771164, 23.595681
+Constanța/Constanța/44.158236, 28.636237
+Covasna/Sfântu Gheorghe/45.862182, 25.790776
+Dâmbovița/Târgoviște/44.925685, 25.462239
+Dolj/Craiova/44.324508, 23.797265
+Galați/Galați/45.434478, 28.017799
+Giurgiu/Giurgiu/43.902673, 25.971237
+Gorj/Târgu Jiu/45.029561, 23.267456
+Harghita/Miercurea Ciuc/46.366578, 25.796203
+Hunedoara/Deva/45.870371, 22.909446
+Ialomița/Slobozia/44.560300, 27.365183
+Iași/Iași/47.155781, 27.606571
+Ilfov/București/44.502883, 26.136217
+Maramureș/Baia Mare/47.655594, 23.586022
+Mehedinți/Drobeta-Turnu Severin/44.635513, 22.661134
+Mureș/Târgu Mureș/46.538239, 24.556288
+Neamț/Piatra Neamț/46.928077, 26.373511
+Olt/Slatina/44.429244, 24.372149
+Prahova/Ploiești/44.938689, 26.020235
+Satu Mare/Satu Mare/47.789863, 22.878022
+Sălaj/Zalău/47.185222, 23.057035
+Sibiu/Sibiu/45.794581, 24.143321
+Suceava/Suceava/47.662130, 26.273184
+Teleorman/Alexandria/43.974065, 25.328547
+Timiș/Timișoara/45.752610, 21.226703
+Tulcea/Tulcea/45.169432, 28.791480
+Vaslui/Vaslui/46.640180, 27.728062
+Vâlcea/Râmnicu Vâlcea/45.098782, 24.369505
+Vrancea/Focșani/45.697710, 27.186126
